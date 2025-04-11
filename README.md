@@ -10,9 +10,9 @@ This project leverages machine learning to **predict wildfire risks** in Califor
 
 ### Machine Learning Models
 
-- **Random Forest**
-- **Gradient Boosting Classifier**
-- **Linear Regression (for exploratory purposes)**
+- Random Forest
+- Gradient Boosting Classifier
+- Linear Regression (for exploratory purposes)
 
 
 
