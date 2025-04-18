@@ -33,7 +33,8 @@ This project leverages machine learning to **predict wildfire risks** in Califor
 
 
 # Project 2: Impact of Race on Social Mobility
-This project analyzes economic and demographic data to explore racial disparities in intergenerational income mobility in the U.S., with a focus on how father presence in single- and two-parent families influences children's future earnings—particularly among low-income racial groups. The process involved cleaning and preprocessing large-scale datasets, handling missing data, engineering features related to family structure and neighborhood context, and conducting exploratory data analysis to uncover key patterns. These insights guided the development of predictive models and aim to inform social policies that promote upward mobility and reduce racial income inequality.
+# I collaborated on a team of 5 people 
+project analyzes economic and demographic data to explore racial disparities in intergenerational income mobility in the U.S., with a focus on how father presence in single- and two-parent families influences children's future earnings—particularly among low-income racial groups. The process involved cleaning and preprocessing large-scale datasets, handling missing data, engineering features related to family structure and neighborhood context, and conducting exploratory data analysis to uncover key patterns. These insights guided the development of predictive models and aim to inform social policies that promote upward mobility and reduce racial income inequality.
 
 
 ## Models Used:
