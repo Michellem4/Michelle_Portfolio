@@ -54,6 +54,11 @@ This project analyzes economic and demographic data to explore racial disparitie
  -  Demonstrated that Black children raised in low-poverty, high-opportunity neighborhoods have substantially better income outcomes.
 
 
+
+<img src="https://github.com/user-attachments/assets/1c3e2d6d-5cdd-41e2-b6b1-75a45fde0bee" style="width:60%;"/>
+<img src="https://github.com/user-attachments/assets/e80207e6-b50f-4d38-80bf-ba0abbc2eddd" style="width:60%;"/>
+
+
 ### Google Slides about project: 
 https://docs.google.com/presentation/d/1ealDxg1nfyqeFqU44R9aG62_hly27MltXNhX5CKUREU/edit?usp=sharing
 
