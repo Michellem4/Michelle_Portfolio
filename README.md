@@ -26,7 +26,6 @@ This project leverages machine learning to **predict wildfire risks** in Califor
 
 
 
-### Links to Project:
 
 
 ---
@@ -57,9 +56,6 @@ This project analyzes economic and demographic data to explore racial disparitie
 <img src="https://github.com/user-attachments/assets/e80207e6-b50f-4d38-80bf-ba0abbc2eddd" style="width:60%;"/>
 
 
-### Google Slides about project: 
-
-### Deepnote Link:
 
 
 
