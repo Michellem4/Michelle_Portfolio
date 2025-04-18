@@ -3,8 +3,6 @@ Data Science Portfolio
 
 
 
-## Include Images##
-
 # Project#1: California Wildfire Risk Prediction
 
 This project leverages machine learning to **predict wildfire risks** in California using historical wildfire incidents and meteorological data. The goal is to support prevention efforts by accurately identifying high-risk conditions and minimizing false negatives.
@@ -24,7 +22,7 @@ This project leverages machine learning to **predict wildfire risks** in Califor
 - Created scalable and automated pipelines
 - Produced interpretable results for public policy and environmental agencies
 
-![Image](https://github.com/user-attachments/assets/4bc22b27-3d71-4707-b1a9-edb945f186a9)
+![Image](https://github.com/user-attachments/assets/4bc22b27-3d71-4707-b1a9-edb945f186a9| width=100)
 
 
 
