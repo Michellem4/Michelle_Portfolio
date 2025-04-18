@@ -24,6 +24,9 @@ This project leverages machine learning to **predict wildfire risks** in Califor
 - Created scalable and automated pipelines
 - Produced interpretable results for public policy and environmental agencies
 
+![Image](https://github.com/user-attachments/assets/4bc22b27-3d71-4707-b1a9-edb945f186a9)
+
+
 
 ### Links to Project:
 
