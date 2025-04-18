@@ -29,6 +29,7 @@ This project leverages machine learning to **predict wildfire risks** in Califor
 
 
 ### Links to Project:
+[IEOR142A_final_report-combined.pdf](https://github.com/user-attachments/files/19809191/IEOR142A_final_report-combined.pdf)
 
 
 ---
