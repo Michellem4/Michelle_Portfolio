@@ -1,5 +1,4 @@
-# Michelle_Portfolio
-Data Science Portfolio
+# Michelle_Portfolio - Data Science Portfolio
 
 
 
