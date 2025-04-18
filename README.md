@@ -27,7 +27,6 @@ This project leverages machine learning to **predict wildfire risks** in Califor
 
 
 ### Links to Project:
-[IEOR142A_final_report-combined.pdf](https://github.com/user-attachments/files/19809191/IEOR142A_final_report-combined.pdf)
 
 
 ---
@@ -59,11 +58,8 @@ This project analyzes economic and demographic data to explore racial disparitie
 
 
 ### Google Slides about project: 
-https://docs.google.com/presentation/d/1ealDxg1nfyqeFqU44R9aG62_hly27MltXNhX5CKUREU/edit?usp=sharing
-
 
 ### Deepnote Link:
-https://deepnote.com/workspace/econ-148-41de-f247e8fe-fc8a-4b3c-8492-33d85af6f3be/project/Econ-148-571cdd9f-8bcf-4f0b-9668-d2ee40b17d7d/notebook/project_template-a325033de22f4569a567bdb93701b9a7
 
 
 
