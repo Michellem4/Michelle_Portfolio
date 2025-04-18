@@ -69,8 +69,17 @@ https://deepnote.com/workspace/econ-148-41de-f247e8fe-fc8a-4b3c-8492-33d85af6f3b
 
 
 
+
+
+
+
 # Project #3 : Spam or Email 
-For this project I developed a logistic regression-based classifier to detect spam emails using natural language processing (NLP). The project focused on transforming raw email text into meaningful features for accurate classificatio
+For this project I developed a logistic regression-based classifier to distinguish spam from legitimate emails using natural language processing (NLP) techniques. The workflow involved text preprocessing, feature engineering, and model tuning on a labeled dataset of 1,000 emails. Key features included character and word counts, punctuation usage, HTML content detection, and other structural elements of emails. These were used to train and optimize a logistic regression model using GridSearchCV. The model achieved strong performance and was evaluated using multiple classification metrics to ensure reliability across different types of email content.
+
+## Models Used:
+Logistic Regression
+
+## Results:
 
 
 
