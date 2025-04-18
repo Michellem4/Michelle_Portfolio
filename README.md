@@ -4,7 +4,7 @@
 
 # Project#1: California Wildfire Risk Prediction
 
-This project leverages machine learning to **predict wildfire risks** in California using historical wildfire incidents and meteorological data. The goal is to support prevention efforts by accurately identifying high-risk conditions and minimizing false negatives.
+This project leverages machine learning to **predict wildfire risks** in California using historical wildfire incidents and meteorological data. The goal is to support prevention efforts by accurately identifying high-risk conditions and minimizing false negatives. # including that individual role that I took in the project 
 
 
 ### Machine Learning Models
@@ -33,7 +33,7 @@ This project leverages machine learning to **predict wildfire risks** in Califor
 
 
 # Project 2: Impact of Race on Social Mobility
-# I collaborated on a team of 5 people 
+# I collaborated on a team of 5 people include more about myself as an individual / individual impacts, and what you focused on
 project analyzes economic and demographic data to explore racial disparities in intergenerational income mobility in the U.S., with a focus on how father presence in single- and two-parent families influences children's future earnings—particularly among low-income racial groups. The process involved cleaning and preprocessing large-scale datasets, handling missing data, engineering features related to family structure and neighborhood context, and conducting exploratory data analysis to uncover key patterns. These insights guided the development of predictive models and aim to inform social policies that promote upward mobility and reduce racial income inequality.
 
 
