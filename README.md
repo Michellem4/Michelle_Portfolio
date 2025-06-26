@@ -72,7 +72,9 @@ For this project I developed a logistic regression-based classifier to distingui
 - Natural language processing techniques
 
 
-![Image](https://github.com/user-attachments/assets/d7c4f01e-5d47-4678-81fa-d1f0d08640df)
+<img src="https://github.com/user-attachments/assets/d7c4f01e-5d47-4678-81fa-d1f0d08640df" style="width:60%;"/>
+
+
 
 
 ## Results:
