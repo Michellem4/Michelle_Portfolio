@@ -72,6 +72,10 @@ For this project I developed a logistic regression-based classifier to distingui
 - Linear Regression
 - Natural language processing techniques
 
+
+![Image](https://github.com/user-attachments/assets/d7c4f01e-5d47-4678-81fa-d1f0d08640df)
+
+
 ## Results:
 Developed a logistic regression-based email classifier to distinguish spam from non-spam messages using natural language processing (NLP) techniques. Extracted and engineered advanced text features—including character counts, punctuation usage, and HTML tag patterns—to enhance predictive power. Applied GridSearchCV to fine-tune hyperparameters, resulting in a model accuracy of 91% on a 1,000-row dataset. Evaluated performance using precision, recall, and F1-score, and identified optimization areas to improve robustness and classification reliability.
 
