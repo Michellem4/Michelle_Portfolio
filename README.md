@@ -68,9 +68,9 @@ This project analyzes economic and demographic data to explore racial disparitie
 For this project I developed a logistic regression-based classifier to distinguish spam from legitimate emails using natural language processing (NLP) techniques. The workflow involved text preprocessing, feature engineering, and model tuning on a labeled dataset of 1,000 emails. Key features included character and word counts, punctuation usage, HTML content detection, and other structural elements of emails. These were used to train and optimize a logistic regression model using GridSearchCV. The model achieved strong performance and was evaluated using multiple classification metrics to ensure reliability across different types of email content.
 
 ## Models Used:
-Logistic Regression
-Linear Regression
-Natural language processing techniques
+- Logistic Regression
+- Linear Regression
+- Natural language processing techniques
 
 ## Results:
 Developed a logistic regression-based email classifier to distinguish spam from non-spam messages using natural language processing (NLP) techniques. Extracted and engineered advanced text features—including character counts, punctuation usage, and HTML tag patterns—to enhance predictive power. Applied GridSearchCV to fine-tune hyperparameters, resulting in a model accuracy of 91% on a 1,000-row dataset. Evaluated performance using precision, recall, and F1-score, and identified optimization areas to improve robustness and classification reliability.
