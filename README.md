@@ -13,7 +13,7 @@ This project leverages machine learning to **predict wildfire risks** in Califor
 - Gradient Boosting Classifier
 - Linear Regression (for exploratory purposes)
 
-
+![Image](https://github.com/user-attachments/assets/414ec755-ebe0-464c-b34c-2c7ede8dad53)
 
 ### Results
 
