@@ -33,8 +33,7 @@ This project leverages machine learning to **predict wildfire risks** in Califor
 
 
 # Project 2: Impact of Race on Social Mobility
-# I collaborated on a team of 5 people include more about myself as an individual / individual impacts, and what you focused on
-project analyzes economic and demographic data to explore racial disparities in intergenerational income mobility in the U.S., with a focus on how father presence in single- and two-parent families influences children's future earnings—particularly among low-income racial groups. The process involved cleaning and preprocessing large-scale datasets, handling missing data, engineering features related to family structure and neighborhood context, and conducting exploratory data analysis to uncover key patterns. These insights guided the development of predictive models and aim to inform social policies that promote upward mobility and reduce racial income inequality.
+This project analyzes economic and demographic data to explore racial disparities in intergenerational income mobility in the U.S., with a focus on how father presence in single- and two-parent families influences children's future earnings—particularly among low-income racial groups. The process involved cleaning and preprocessing large-scale datasets, handling missing data, engineering features related to family structure and neighborhood context, and conducting exploratory data analysis to uncover key patterns. These insights guided the development of predictive models and aim to inform social policies that promote upward mobility and reduce racial income inequality.
 
 
 ## Models Used:
@@ -70,8 +69,12 @@ For this project I developed a logistic regression-based classifier to distingui
 
 ## Models Used:
 Logistic Regression
+Linear Regression
+Natural language processing techniques
 
 ## Results:
+Developed a logistic regression-based email classifier to distinguish spam from non-spam messages using natural language processing (NLP) techniques. Extracted and engineered advanced text features—including character counts, punctuation usage, and HTML tag patterns—to enhance predictive power. Applied GridSearchCV to fine-tune hyperparameters, resulting in a model accuracy of 91% on a 1,000-row dataset. Evaluated performance using precision, recall, and F1-score, and identified optimization areas to improve robustness and classification reliability.
+
 
 
 
